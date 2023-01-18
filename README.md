@@ -107,7 +107,7 @@ endmodule
 
 ### TRUTH TABLE FOR UP COUNTER:
 
-![](/output3.jpg)
+![](/output7.png)
 
 ### RTL LOGIC DOWN COUNTER:
 
@@ -119,7 +119,7 @@ endmodule
 
 ### TRUTH TABLE FOR DOWN COUNTER:
 
-![](/output6.jpg)
+![](/output8.png)
 
 
 # RESULTS:
