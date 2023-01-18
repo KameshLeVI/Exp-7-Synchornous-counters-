@@ -57,7 +57,7 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 ### STEP4: End the verilog program using keyword endmodule.
 
-#### STEP5: Get the timing diagram and RTL realization diagram for respective Counters. 
+### STEP5: Get the timing diagram and RTL realization diagram for respective Counters. 
 
 # PROGRAM :
 ```
